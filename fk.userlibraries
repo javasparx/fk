@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Node.js v0.10.25 Core Modules">
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/vm.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/_stream_duplex.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/freelist.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/repl.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/sys.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/_debugger.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/net.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/zlib.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/dns.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/_stream_transform.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/querystring.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/_stream_passthrough.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/tls.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/url.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/stream.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/buffer.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/domain.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/dgram.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/timers.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/util.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/https.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/os.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/cluster.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/_stream_readable.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/events.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/punycode.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/_stream_writable.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/readline.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/_linklist.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/http.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/assert.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/fs.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/module.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/path.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/child_process.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/console.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/constants.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/tty.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/string_decoder.js" />
+    <archive path="/home/javasparx/.IntelliJIdea13/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/crypto.js" />
+  </library>
+</eclipse-userlibraries>
+
